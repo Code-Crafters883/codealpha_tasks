@@ -5,9 +5,13 @@ This is a text-based Hangman game implemented in Python. The player tries to gue
 
 # ⚙ Features
 ✅ Random word selection
+
 ✅ Letter-by-letter guessing
+
 ✅ Limited incorrect attempts
+
 ✅ Displays guessed letters and word progress
+
 ✅ Text-based interface
 
 # 📜 How to Play?
@@ -26,17 +30,25 @@ You guess the full word (🎉 You Win!)
 You run out of attempts (💀 Game Over!)
 
 # 📌 Example Output
+
 less
+
 Copy
+
 Edit
+
 Welcome to Hangman!
 _ _ _ _ _
 Guess a letter: a
+
 Correct! Current progress: A _ _ _ _
+
 Guess a letter: e
+
 Incorrect! You have 5 attempts left.
 ...
 
 # 🛠 Technologies Used
 Python
+
 Random module
