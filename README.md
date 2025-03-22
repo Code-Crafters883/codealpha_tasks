@@ -12,11 +12,17 @@ This is a text-based Hangman game implemented in Python. The player tries to gue
 
 # 📜 How to Play?
 The game selects a random word.
+
 You guess one letter at a time.
+
 If the letter is correct, it is revealed in the word.
+
 If incorrect, you lose a chance.
+
 The game continues until:
+
 You guess the full word (🎉 You Win!)
+
 You run out of attempts (💀 Game Over!)
 
 # 📌 Example Output
